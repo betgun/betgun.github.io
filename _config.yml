@@ -10,8 +10,8 @@ title: BETGUN
 email: vnet@o2.pl
 description: > # this means to ignore newlines until "baseurl:"
   betgun, vnet@o2.pl
-# baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://betgun.ml" # the base hostname & protocol for your site
 twitter_username: betgun_wot
 github_username:  betgun
 
