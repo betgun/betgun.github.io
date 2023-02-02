@@ -7,8 +7,8 @@ layout: default
 | betgun  |    VS     | spark41 |
 | ------- | :-------: | ------: |
 | ![](https://api.tomato.gg/signatures/eu/532865830)   |  | ![](https://api.tomato.gg/signatures/eu/545357743)    |
-| ![](https://static.wows-numbers.com/wot/532865830.png)   |  | ![](https://static.wows-numbers.com/wot/545357743.png)    |
-| ![](http://wotlabs.net/sig_dark/eu/betgun/signature.png) |  | ![](http://wotlabs.net/sig_dark/eu/spark41/signature.png) |
+markobej
+![](https://api.tomato.gg/signatures/eu/532698430)
 
 ## [WOT Stats](./wot.html)
 
